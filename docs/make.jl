@@ -7,7 +7,7 @@ makedocs(;
     format = DocumenterVitepress.MarkdownVitepress(;
         repo = "github.com/Aminofa70/Aminofa70",
         devbranch = "main",
-        devurl = "",
+        devurl = "dev",
     ),
     pages = [
         "Home" => "index.md",
@@ -20,6 +20,5 @@ DocumenterVitepress.deploydocs(;
     target = joinpath(@__DIR__, "build"),
     branch = "gh-pages",
     devbranch = "main",
-    devurl = "",
     push_preview = true,
 )
