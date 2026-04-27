@@ -7,7 +7,7 @@ hero:
   text: "Personal Academic Page"
   tagline: "Research, projects, and publications"
   image:
-    src: /me.jpg
+    src: "https://github.com/Aminofa70/Aminofa70/Aminofa70/main/assets/me.jpg"
     alt: "Amin Alibakhshi"
   actions:
     - theme: brand
@@ -18,7 +18,6 @@ hero:
       link: https://github.com/Aminofa70
 ---
 ```
-
 # Welcome
 
 I am Amin Alibakhshi.
