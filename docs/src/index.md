@@ -6,6 +6,9 @@ hero:
   name: "Amin Alibakhshi"
   text: "Personal Academic Page"
   tagline: "Research, projects, and publications"
+  image:
+    src: /me.jpg
+    alt: "Amin Alibakhshi"
   actions:
     - theme: brand
       text: Papers
