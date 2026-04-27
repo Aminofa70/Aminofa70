@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://github.com/Aminofa70/Aminofa70/dev/)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://Aminofa70.github.io/Aminofa70/dev/)
 
 
 <!--
