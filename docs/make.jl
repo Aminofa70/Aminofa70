@@ -7,7 +7,7 @@ makedocs(;
     format = DocumenterVitepress.MarkdownVitepress(;
         repo = "github.com/Aminofa70/Aminofa70",
         devbranch = "main",
-        devurl = "dev",
+        devurl = "",
     ),
     pages = [
         "Home" => "index.md",
