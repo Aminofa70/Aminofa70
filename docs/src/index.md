@@ -15,13 +15,11 @@ hero:
       link: https://github.com/Aminofa70
 ---
 ```
+
 # Welcome
 
 I am Amin Alibakhshi.
 
-the link is
-
-<img src="https://github.com/Aminofa70/Aminofa70/blob/main/assets/me.png" alt="ComodoFerrite torsion loading of a cube" width="60%"/>
 
 This is my personal page for research, projects, and publications.
 
