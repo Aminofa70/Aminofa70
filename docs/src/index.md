@@ -19,6 +19,7 @@ hero:
 
 I am Amin Alibakhshi.
 
+the link 
 
 <img src="https://github.com/Aminofa70/Aminofa70/blob/main/assets/me.png" alt="ComodoFerrite torsion loading of a cube" width="60%"/>
 
