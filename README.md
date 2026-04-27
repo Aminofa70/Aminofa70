@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://github.com/Aminofa70/Aminofa70/dev/)
+
+
 <!--
 **Aminofa70/Aminofa70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
