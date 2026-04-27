@@ -6,9 +6,6 @@ hero:
   name: "Amin Alibakhshi"
   text: "Personal Academic Page"
   tagline: "Research, projects, and publications"
-  image:
-    src: "https://raw.githubusercontent.com/Aminofa70/Aminofa70/main/assets/me.png"
-    alt: "Amin Alibakhshi"
   actions:
     - theme: brand
       text: Papers
@@ -21,6 +18,9 @@ hero:
 # Welcome
 
 I am Amin Alibakhshi.
+
+
+<img src="https://github.com/Aminofa70/Aminofa70/blob/main/assets/me.png" alt="ComodoFerrite torsion loading of a cube" width="60%"/>
 
 This is my personal page for research, projects, and publications.
 
