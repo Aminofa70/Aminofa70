@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Amin Alibakhshi"
-  text: "Personal Academic Page"
-  tagline: "Research, projects, and publications"
+  text: ""
+  tagline: "Postdoctoral Fellow, Universidade da Coruña, A Coruña, Spain"
   actions:
     - theme: brand
       text: Papers
@@ -16,12 +16,6 @@ hero:
 ---
 ```
 
-# Welcome
-
-I am Amin Alibakhshi.
-
-
-This is my personal page for research, projects, and publications.
 
 ## About
 
