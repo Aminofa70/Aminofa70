@@ -19,22 +19,26 @@ hero:
 
 ## About
 
-I have been conducting research since 2016, beginning in the final year of my bachelor’s degree. With nearly eight years of experience in scientific research, I have developed a solid foundation in solid mechanics, computational modeling, and numerical methods, with a strong emphasis on interdisciplinary applications in smart materials and advanced structural analysis.
+I have been conducting scientific research since 2016, beginning during the final year of my bachelor’s degree. Over the past ten years, I have developed a strong foundation in solid mechanics, computational modeling, and numerical methods.
+
+In 2022, I was awarded the prestigious Marie Skłodowska-Curie Fellowship to pursue my Ph.D. at the Universidad Politécnica de Madrid, Spain, where I completed my doctoral degree in 2025.
+
+In 2026, I joined Dr. Guillermo Lorenzo’s research group at the Universidade da Coruña as a postdoctoral fellow. My current research focuses on computational biomechanics, particularly modeling deformation and cancer progression in organs such as the prostate and breast.
+
+Most recently, I was awarded the prestigious Juan de la Cierva Fellowship, which will allow me to continue my postdoctoral research for the next three years under the supervision of Dr. Guillermo Lorenzo.
 
 My research interests include solid mechanics, biomechanics, artificial neural networks, smart materials, finite element analysis, topology optimization, metamaterials, structural dynamics, and nonlinear vibrations. I am particularly focused on the development of numerical methods for multiphysics problems involving soft and active materials.
 
-In 2022, I was awarded a prestigious Marie Sklodowska-Curie fellowship to pursue a Ph.D. at Universidad Politécnica de Madrid, Spain, where I am currently working on advanced topology optimization techniques,
-biomedical modeling, and functionally graded materials.
 
-During my secondment at the University of Florida, USA. I worked under the supervision of Professor Nam Ho Kim on the topology optimization of functionally graded materials.
+Beyond theoretical and applied research, I am actively involved in scientific software development. Notably, I have contributed to the following packages:
 
-Beyond theoretical and applied research, I am actively involved in scientific software development. I created
-Julia packages PUPM.jl, which provides tools for topology optimization using the semi-penalized UPM
-method, GrowthTop.jl bone remodeling driven topology optimization (Growth Method). I have contributed
-to the development of FEBio.jl, a Julia interface for nonlinear finite element analysis based on
-the core functionality of the original FEBio software, widely used in biomechanics and computational solid
-mechanics. Additionally, I contribute to the COMODO-research project in Julia, a tool designed for
-finite element analysis and mesh generation.
+- [Comodo.jl](https://github.com/COMODO-research/Comodo.jl)
+- [FerriteHyperelastic.jl](https://github.com/Aminofa70/FerriteHyperelastic.jl)
+- [PUPM.jl](https://github.com/Aminofa70/PUPM.jl)
+- [ComodoFerrite.jl](https://github.com/COMODO-research/ComodoFerrite.jl)
+- [ComodoGridap.jl](https://github.com/COMODO-research/ComodoGridap.jl)
+- [FerriteBifurcationKit.jl](https://github.com/bifurcationkit/FerriteBifurcationKit.jl)
+- [Jutopia.jl](https://github.com/COMODO-research/Jutopia.jl)
 
 
 ## Papers
